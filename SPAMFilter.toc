@@ -1,0 +1,9 @@
+## Interface: 20400
+
+## Title: SPAMFilter
+## Author: Darkspy
+## Version: 1.0
+## Notes: Filter gold spammers and account sellers
+## SavedVariables: filterSPAM verbose userKeywords
+
+SPAMFilter.lua
